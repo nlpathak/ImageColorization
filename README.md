@@ -1,6 +1,6 @@
 # ImageColorization
 
-Here, I implement an Image Colorization model trained and evaluated through simple Huber Loss. Some example predictions of the model can be seen in the notebook. 
+Here, I implement an Image Colorization model trained and evaluated through simple Huber Loss. Some example predictions of the model can be seen in the notebook. I have also included a paper describing what all I did, including some result analysis.  
 
 This model was heavily inspired by the works listed here:
 - Jeff Hwang and You Zhou. Image colorization with deep convolutional neural networks, 2016. http://cs231n.stanford.edu/reports/2016/pdfs/219_Report.pdf.
